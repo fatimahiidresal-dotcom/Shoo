@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">بازار</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_favorites">المفضلة</string>
+    <string name="nav_cart">السلة</string>
+    <string name="nav_orders">طلباتي</string>
+    <string name="search_hint">ابحث عن منتجات، عطور، إلكترونيات...</string>
+    <string name="currency_sar">ر.س</string>
+    <string name="add_to_cart">إضافة للسلة</string>
+    <string name="buy_now">اشترِ الآن</string>
+    <string name="checkout_title">إتمام الطلب</string>
+    <string name="empty_cart_title">سلة المشتريات فارغة</string>
+    <string name="empty_cart_subtitle">استكشف أحدث العروض والمنتجات الفاخرة وأضفها إلى سلتك</string>
+    <string name="empty_favorites_title">قائمة المفضلة فارغة</string>
+    <string name="empty_favorites_subtitle">اضغط على رمز القلب على أي منتج لحفظه هنا للرجوع إليه لاحقاً</string>
+    <string name="empty_orders_title">لا توجد طلبات سابقة</string>
+    <string name="empty_orders_subtitle">عند إتمام أول عملية شراء ستظهر تفاصيل وتتبع شحنتك هنا</string>
+</resources>

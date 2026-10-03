@@ -1,0 +1,6 @@
+{
+  "name": "بازار",
+  "description": "تطبيق تسوق إلكتروني متكامل لتصفح المنتجات، العروض الحصرية، سلة المشتريات، المفضلة، وتتبع الطلبات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
